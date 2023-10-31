@@ -4,4 +4,4 @@ This project was React and TypeScript, and questions are fetched from Trivia API
 
 I learned more about TypeScript during this project.
 
-\*\*Live link:
+**Live link**: https://kweaz.netlify.app
